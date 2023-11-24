@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button";
+import { Button } from "./components/ui/button";
 // import TaskCard from "./components/TaskCard";
 import TaskArea from "./components/TaskArea";
 // import { Dispatch, DragEvent, useState } from "react";
